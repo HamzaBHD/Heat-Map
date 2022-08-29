@@ -18,3 +18,8 @@
     border: 1px solid black;
     cursor: pointer;
 } 
+
+.heat--chart {
+    background-color: #FFF;
+    box-shadow: 0 0 10px gray;
+}

@@ -95,7 +95,7 @@ const Map = ({ base, values, padding, height, width }) => {
     }
 
     return (
-            <svg width={width} height={height}></svg>
+            <svg className='heat--chart' width={width} height={height}></svg>
     )
 }
 
